@@ -1,10 +1,10 @@
 <img src="https://austynguo.com/content/images/2023/04/helloworld.png" align="left" style="width: 100%" />  
   
 
-#### *<div align="center">I am Luiz, a 17 yo Brazilian 🇧🇷 undergraduated in Computer Science, mainly interested in Machine Learning and AI's development with Python. 👨🏻‍💻</div>*  
+## *<div align="center">I am Luiz, a 17 yo Brazilian 🇧🇷 undergraduated in Computer Science, mainly interested in Machine Learning and AI's development with Python. 👨🏻‍💻</div>*  
   
 
-- #### 🔭 I’m currently studying at PUCPR  
+- ## 🔭 I’m currently studying at PUCPR  
   
 
 - 👨🏻‍💻 I’m currently learning Deep Learning and Neural Networks with PyTorch  
