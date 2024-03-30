@@ -1,7 +1,7 @@
 <img src="https://austynguo.com/content/images/2023/04/helloworld.png" align="left" style="width: 100%" />  
   
 
-## *<div align="center">🚀 I am Luiz, a dedicated undergraduate in the field of Computer Science, deeply committed to advancing technology through innovation and collaboration. With a focus on Machine Learning and AI's development with Python, I strive to contribute meaningfully to the ever-evolving landscape of software development. 👨🏻‍💻</div>*  
+## *<div align="center">🚀 I am Luiz, a dedicated undergraduate in the field of Computer Science, deeply committed to advancing technology through innovation and collaboration. With focus on Machine Learning and AI's development with Python, I strive to contribute meaningfully to the ever-evolving landscape of software development. 👨🏻‍💻</div>*  
   
 
 - ## 🔭 I’m currently studying at PUCPR  
